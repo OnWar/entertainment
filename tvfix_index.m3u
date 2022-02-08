@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K(色彩准确)" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="央视高清",Bloomberg TV+ UHD (2160p)
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="央视高清",央视高清
+http://iptv.tvfix.org/hls/cctv4k.m3u8
+#EXTINF:-1 tvg-id="天映经典(普通话)" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="天映经典(普通话)",天映经典(普通话)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="清华电视台" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="清华电视台",清华电视台
+http://iptv.tvfix.org/hls/tsinghuatv.m3u8
