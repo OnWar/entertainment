@@ -15,6 +15,8 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="超高清",Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="超高清",Red Bull TV UHD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-4K(色彩准确)
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-1高清
