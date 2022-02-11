@@ -35,6 +35,12 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 group-title="海外节目",NHK WORLD TV HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="海外节目",凤凰香港 HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 group-title="海外节目",凤凰中文 HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="海外节目",凤凰资讯 HD
+http://ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-4K(色彩准确)
 http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-1高清
