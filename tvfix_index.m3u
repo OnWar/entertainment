@@ -7,10 +7,6 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1 group-title="超高清",北京冬奥-8K
 http://down.btvcloud.com/8k2021zhibo/zhibo8K2021.m3u8
-#EXTINF:-1 group-title="超高清",欢笑剧场4K
-http://ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 group-title="超高清",江苏4K测试
-http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 group-title="超高清",LOVE NATURE 4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="超高清",Bloomberg TV+ UHD
@@ -23,8 +19,6 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="超高清",Russia Music UHD
 http://rtmp.one.by:1499
-#EXTINF:-1 group-title="超高清",测试 UHD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 group-title="海外节目",Outdoor Channel HD
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="海外节目",People TV HD
@@ -35,12 +29,6 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 group-title="海外节目",NHK WORLD TV HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="海外节目",凤凰香港 HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 group-title="海外节目",凤凰中文 HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 group-title="海外节目",凤凰资讯 HD
-http://ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="海外节目",CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="海外节目",AL Jazeera FHD
@@ -57,44 +45,50 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="海外节目",ChannelNewsAsia FHD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="海外节目",ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="海外节目",NBC News Now (1080p)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="央视高清",CCTV-4K(色彩准确)
+http://iptv.tvfix.org/hls/cctv4k.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-1高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-1香港版高清
 http://iptv.tvfix.org/hls/cctv1hdhk.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-2高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-3高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-4高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-5高清
-http://ott.js.chinamobile.com/PLTV/3/224/3221228179/index.m3u8
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-5+高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-6高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-7高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-8高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-9高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-10高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-11高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-12高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-13高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-14高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-15高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-16高清
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视高清",CCTV-17高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="央视高清",CGTN高清
 http://iptv.tvfix.org/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视高清",CGTN纪录高清
@@ -107,126 +101,56 @@ http://iptv.tvfix.org/hls/cgtnehd.m3u8
 http://iptv.tvfix.org/hls/cgtnahd.m3u8
 #EXTINF:-1 group-title="央视高清",CGTN西班牙语高清
 http://iptv.tvfix.org/hls/cgtnxhd.m3u8
-#EXTINF:-1 group-title="卫视高清",CCTV-女性时尚
-http://ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 group-title="卫视高清",北京卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 group-title="卫视高清",北京卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="卫视高清",北京纪实高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="卫视高清",北京纪实高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225676/index.m3u8
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
 #EXTINF:-1 group-title="卫视高清",湖南卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖南卫视高清
-http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖南卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",湖南卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225704/index.m3u8
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="卫视高清",浙江卫视高清
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 group-title="卫视高清",江苏卫视高清
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 group-title="卫视高清",东方卫视高清
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1 group-title="卫视高清",安徽卫视高清
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1 group-title="卫视高清",黑龙江卫视高清
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1 group-title="卫视高清",辽宁卫视高清
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1 group-title="卫视高清",深圳卫视高清
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1 group-title="卫视高清",广东卫视高清
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1 group-title="卫视高清",天津卫视高清
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1 group-title="卫视高清",湖北卫视高清
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1 group-title="卫视高清",山东卫视高清
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1 group-title="卫视高清",重庆卫视高清
+http://iptv.tvfix.org/hls/cqhd.m3u8
 #EXTINF:-1 group-title="卫视高清",金鹰纪实高清
-http://39.135.138.5:6610/PLTV/88888888/224/3221225595/2/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖北卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖北卫视高清
-http://ott.js.chinamobile.com/PLTV/3/224/3221227703/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖北卫视高清
-http://ott.js.chinamobile.com/PLTV/3/224/3221227495/index.m3u8
-#EXTINF:-1 group-title="卫视高清",湖北卫视高清
-http://ott.js.chinamobile.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 group-title="卫视高清",东方卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="卫视高清",江苏卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
-#EXTINF:-1 group-title="卫视高清",江苏卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",江苏卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 group-title="卫视高清",浙江卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",浙江卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
-#EXTINF:-1 group-title="卫视高清",浙江卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="卫视高清",东方卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 group-title="卫视高清",东方卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",上海纪实高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="卫视高清",上海纪实高清8M
-http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="卫视高清",北京卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",深圳卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/szwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",深圳卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="卫视高清",深圳卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 group-title="卫视高清",广东卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/gdwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",广东卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="卫视高清",安徽卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/ahwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",安徽卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="卫视高清",安徽卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
-#EXTINF:-1 group-title="卫视高清",河北卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="卫视高清",东南卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",东南卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+http://iptv.tvfix.org/hls/gedocu.m3u8
+#EXTINF:-1 group-title="卫视高清",福建东南卫视高清
+http://iptv.tvfix.org/hls/dnhd.m3u8
 #EXTINF:-1 group-title="卫视高清",四川卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+http://iptv.tvfix.org/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视高清",河北卫视高清
-http://live2.plus.hebtv.com/hbwsx/hd/live.m3u8
+http://iptv.tvfix.org/hls/hebhd.m3u8
 #EXTINF:-1 group-title="卫视高清",江西卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jxwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",江西卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
-#EXTINF:-1 group-title="卫视高清",江西卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="卫视高清",重庆卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="卫视高清",重庆卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 group-title="卫视高清",山东卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/sdwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",山东卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
-#EXTINF:-1 group-title="卫视高清",山东卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 group-title="卫视高清",天津卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/tjwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",天津卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 group-title="卫视高清",天津卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="卫视高清",辽宁卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/lnwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",辽宁卫视高清
-http://39.135.138.60:18890/PLTV/88888910/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="卫视高清",辽宁卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="卫视高清",黑龙江卫视高清
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hljwshd/2300000/mnf.m3u8
-#EXTINF:-1 group-title="卫视高清",黑龙江卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="卫视高清",黑龙江卫视高清
-http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 group-title="卫视高清",青海卫视高清
-http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="卫视高清",内蒙古卫视高清
-http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 group-title="卫视高清",内蒙古卫视高清
-http://live.m2oplus.nmtv.cn/1/playlist.m3u8
-#EXTINF:-1 group-title="卫视高清",甘肃卫视高清
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1 group-title="卫视高清",河南卫视高清
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 group-title="卫视高清",广西卫视高清
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1 group-title="卫视高清",吉林卫视高清
+http://iptv.tvfix.org/hls/jlhd.m3u8
+#EXTINF:-1 group-title="卫视高清",中国教育电视台1高清
+http://iptv.tvfix.org/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title="卫视高清",海南卫视高清
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1 group-title="卫视高清",贵州卫视高清
+http://iptv.tvfix.org/hls/gzhd.m3u8
 #EXTINF:-1 group-title="地方频道",北京文艺高清
 http://iptv.tvfix.org/hls/brtv2hd.m3u8
 #EXTINF:-1 group-title="地方频道",北京科教高清
