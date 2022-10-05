@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="超高清",无线新闻台
+http://98.142.138.122:1632/zhiboyuandakaTV/tvbnews92=56778.m3u8
+#EXTINF:-1 group-title="超高清",有线新闻台
+http://98.142.138.122:1630/zhiboyuandakaTV/cable7390046.m3u8
+#EXTINF:-1 group-title="超高清",有线财经新聞台
+http://98.142.138.122:1631/zhiboyuandakaTV/icable9376745.m3u8
+#EXTINF:-1 group-title="超高清",翡翠台
+http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade7367895023.m3u8
